@@ -10,10 +10,8 @@ The raw dataset had:
 - Combined columns (Department_Region)
 - Invalid phone numbers
 - Inconsistent text values
-
 ## 📁 Dataset Used
 [Messy Employee Dataset](https://github.com/nayanashenoy27/Data-cleaning-sql/blob/main/Messy_Employee_dataset.csv)
-
 ## STEPS INVOLVES
 - Handled NULL values using COALESCE
 - Rounded salary values
@@ -22,6 +20,7 @@ The raw dataset had:
 - Fixed invalid phone numbers
 - Standardized text fields
  ## 🧾 SQL Queries
-
 [View SQL Cleaning Script](https://github.com/nayanashenoy27/Data-cleaning-sql/blob/main/Project%20data%20cleaning.sql)
+## ✅ Cleaned Dataset
+[View Cleaned Employee Data](https://github.com/nayanashenoy27/Data-cleaning-sql/blob/main/Cleaned%20data%20emloyee.csv)
   
