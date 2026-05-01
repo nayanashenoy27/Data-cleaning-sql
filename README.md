@@ -10,6 +10,10 @@ The raw dataset had:
 - Combined columns (Department_Region)
 - Invalid phone numbers
 - Inconsistent text values
+
+## 📁 Dataset Used
+
+
 ## STEPS INVOLVES
 - Handled NULL values using COALESCE
 - Rounded salary values
