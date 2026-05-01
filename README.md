@@ -21,5 +21,7 @@ The raw dataset had:
 - Converted date formats
 - Fixed invalid phone numbers
 - Standardized text fields
-  SQL QUERIES
+ ## 🧾 SQL Queries
+
+[View SQL Cleaning Script](https://github.com/nayanashenoy27/Data-cleaning-sql/blob/main/Project%20data%20cleaning.sql)
   
