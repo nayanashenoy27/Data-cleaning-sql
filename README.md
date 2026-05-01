@@ -12,9 +12,7 @@ The raw dataset had:
 - Inconsistent text values
 
 ## 📁 Dataset Used
-Messy_Employee_dataset.csv
-
-
+[Messy Employee Dataset](https://github.com/nayanashenoy27/Data-cleaning-sql/blob/main/Messy_Employee_dataset.csv)
 
 ## STEPS INVOLVES
 - Handled NULL values using COALESCE
