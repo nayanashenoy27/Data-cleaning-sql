@@ -1,7 +1,7 @@
-## PROJECT TITLE
-# End-to-End Employee Data Cleaning using SQL
-## PROJECT OVERVIEW
-# This project focuses on cleaning a messy employee dataset using SQL.
+# PROJECT TITLE
+## End-to-End Employee Data Cleaning using SQL
+# PROJECT OVERVIEW
+This project focuses on cleaning a messy employee dataset using SQL.
 The dataset contained missing values, inconsistent formats, and invalid entries.
 ## PROJECT STATEMENT
 The raw dataset had:
